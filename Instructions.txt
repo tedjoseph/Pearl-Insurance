@@ -1,0 +1,25 @@
+Thank you for your interest in joining the Digital Team and becoming part of our Marketing Department at Pearl Insurance!
+
+I have provided a zip file that contains an html email template, a copy document for the email, our logo, and a header image.
+(2023-Email-Marketing-Specialist.zip)
+
+Use your best judgement to create variations between the two layouts. These should both drive to our Lawyers Professional Liability Insurance product page of the Pearl Insurance website:
+
+https://pearlinsurance.com/lawyers/professional-liability
+
+File Structure:
+This folder structure should be your end result.
+
+Main folder (Your name)
+	- Email-1.html (markup for email #1)
+	- assets
+		- images (all image links in markup should be relative to the files in this folder)
+ 
+Email: 
+Use the email-template.html file provided to create an html email.
+
+You can also find an original version of this file here: https://litmus.com/resources/free-responsive-email-templates - Slate (Announcement).
+
+Use the html file and standardized email best practices to get you started. Replace the images and add in the copy from the document provided. Any link or button should be the action color: #95cc36, and should direct to the URL provided.
+ 
+Once this is complete, please return a final zip file to Scott Sacadat and we will setup a follow-up interview to discuss. Get creative and show me what you can do! Good luck!

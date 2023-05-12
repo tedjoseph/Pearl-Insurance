@@ -1,0 +1,13 @@
+Colors:
+
+Pearl Blue: #28b2d6
+Pearl Green: #95cb35
+
+
+        /* CUSTOM STYLES */
+
+        p {
+            text-align: left;
+        }
+
+in the style align all the text to left to mimic letter styled copy.
